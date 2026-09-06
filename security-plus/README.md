@@ -2,7 +2,7 @@
 # My CompTIA Security+ Journey
 This is where I'm documenting my journey toward earning the CompTIA Security+ (SY0-701) certification and building my foundation in cybersecurity.
 
-# Why I Started
+## Why I Started
 
 I decided to start this journey because cybersecurity is something I've been interested in since I was laid off from my Business Analyst role in 2021.
 
@@ -12,7 +12,7 @@ Now, I feel like I have a better idea of where I want to go and the path I want 
 
 Security+ is just the foundation for that path.
 
-# Where I Want to Go
+## Where I Want to Go
 
 I see myself getting into GRC. I like making improvements to systems and policies, following rules, and solving problems for others.
 
@@ -34,7 +34,7 @@ One thing I've also realized is that some of these concepts aren't completely ne
 
 Security+ has helped me reconnect with some of that past experience, refresh my knowledge, and start putting everything together from a cybersecurity perspective.
 
-Current Progress
+## Current Progress
 
 CompTIA Security+ (SY0-701)
 19 of 26 study sections completed
